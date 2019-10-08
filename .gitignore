@@ -6,3 +6,6 @@
 /pkg/
 /spec/reports/
 /tmp/
+
+# Ignore all file with the .gem extension
+*.gem
