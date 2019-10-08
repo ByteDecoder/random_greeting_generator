@@ -11,8 +11,10 @@ Gem::Specification.new do |spec|
   spec.email         = ['encode@bytedecoder.me']
 
   spec.summary       = 'Generate random greeting'
-  spec.description   = 'Generate random greeting'
+  spec.description   = 'Generate random greeting in several languages'
   spec.homepage      = 'https://github.com/ByteDecoder/random_greeting_generator'
+
+  spec.license       = 'MIT'
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
   # to allow pushing to a single host or delete this section to allow pushing to any host.
